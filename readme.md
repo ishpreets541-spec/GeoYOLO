@@ -15,7 +15,8 @@
 ## 🚀 Live Demo
 Access the live deployment on Streamlit Community Cloud: **https://geoyolo.streamlit.app/**
 [![GeoYOLO Live Demo](p1.png)]
-p2.png
+---
+p2.jpg
 ---
 
 ## 🧠 Core Features
