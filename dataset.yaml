@@ -1,0 +1,6 @@
+path: D:/python/YOLO_VEGETATION_MAPPER/dataset_split
+train: D:/python/YOLO_VEGETATION_MAPPER/dataset_split/images/train
+val: D:/python/YOLO_VEGETATION_MAPPER/dataset_split/images/val
+
+names:
+  0: herbaceous_vegetation

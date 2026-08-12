@@ -1,0 +1,46 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
+
+# Machine-specific
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model weights / outputs / datasets
+runs/
+DATASET/
+dataset_split/
+*.pt
+*.pth
+*.onnx
+
+# PyInstaller
+*.spec
+build/
+
+# System files
+*.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
