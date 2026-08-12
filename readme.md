@@ -37,15 +37,23 @@ The system operates across three primary modular scripts:
 3.  **Inference Engine:** An application that caches the trained weights (`best.pt`), normalizes input tensors, executes predictions with high-resolution retina masks, and renders the analytics to the user[cite: 1].
 
 ---
+### 👩‍💻 Author
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+---
 
 ## 💻 Local Installation & Setup
 
 To deploy GeoYOLO locally for development or dataset generation:
 
 ```bash
-# Clone the repository
-git clone [https://github.com/yourusername/GeoYOLO.git](https://github.com/yourusername/GeoYOLO.git)
-cd GeoYOLO
+---
+
+
 
 # Install the required spatial and deep learning dependencies
 pip install ultralytics torch torchvision streamlit opencv-python tifffile Pillow numpy
